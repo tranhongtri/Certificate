@@ -1,13 +1,13 @@
 import React, { useState } from "react";
 import Modal from "react-modal";
-// import heroImgMobile from "../../../public/assets/img/hero/img-mobile.png";
+//import heroImgMobile from "../../../public/assets/img/hero/img-mobile.png";
 import cancelImg from "../../../public/assets/img/cancel.svg";
 import AboutMain from "../about";
 import Image from "next/image";
 
 const heroContent = {
   // heroImage: "/assets/img/hero/dark.png",
-  // heroMobileImage: heroImgMobile,
+  //heroMobileImage: heroImgMobile,
   heroTitleName: "Project Manager",
   heroDesignation: "Josh Tran",
   heroDescriptions: `I'm a super energetic and highly motivated Project Manager who has always been striving for excellent performance and exceptional standards, developing his team with Agile mindset and driving towards a culture of excellence.`,
@@ -29,12 +29,12 @@ const Hero = () => {
         ></div> */}
         <div className="col-12 col-lg-8 offset-lg-4 home-details  text-center text-lg-start">
           <div>
-            <Image
+            {/* <Image
               src={heroContent.heroMobileImage}
               className="img-fluid main-img-mobile d-sm-block d-lg-none"
               alt="hero man"
               // style={{width:'100%',height:'100%'}}
-            />
+            /> */}
             <h1 className="poppins-font">
               {heroContent.heroTitleName}
               <span>{heroContent.heroDesignation}</span>
