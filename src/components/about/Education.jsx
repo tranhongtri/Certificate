@@ -8,10 +8,10 @@ const educationContent = [
     details: `Managing various types of projects such as internal system, production projects, financial projects, web application projects and mobile app projects`,
   },
   {
-    year: "2012 - 2017",
+    year: "2012 - Present",
     degree: "English",
-    institute: "ZALORA & TPF",
-    details: `Enhancing English skills and got the chance to work in Australia in 2017`,
+    institute: "ZALORA, TPF & Brickmate",
+    details: `Enhancing English skills and got the chance to work in Australia from 2017 to 2021`,
   },
   {
     year: "2008 - 2011",

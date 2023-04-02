@@ -4,20 +4,20 @@ const experienceContent = [
   {
     year: "   2022 - Present",
     position: "React JS",
-    compnayName: "Personal Project",
+    compnayName: "Personal Projects",
     details: `Building websites with React JS`,
   },
   {
-    year: "2017 - 2022",
-    position: "SQL Server",
-    compnayName: "TPF Group",
-    details: `Building queries to retrieve data`,
+    year: "2017 - Present",
+    position: "SQL & Mongo DB",
+    compnayName: "TPF & Brickmate",
+    details: `Writing queries to retrieve data & analyzing data`,
   },
   {
-    year: "2013 - 2017",
+    year: "2012 - 2017",
     position: "VBA",
-    compnayName: "TPF Group",
-    details: `Building automation for Excel reports with VBA`,
+    compnayName: "ZALORA & TPF",
+    details: `Built automation for Excel reports with VBA`,
   },
 ];
 
