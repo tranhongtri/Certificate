@@ -18,6 +18,7 @@ import Image102 from "../../../public/assets/img/portfolio/project-102.png";
 import Image103 from "../../../public/assets/img/portfolio/project-103.png";
 import Image104 from "../../../public/assets/img/portfolio/project-104.png";
 import Image105 from "../../../public/assets/img/portfolio/project-105.png";
+import Image106 from "../../../public/assets/img/portfolio/project-106.png";
 import Image200 from "../../../public/assets/img/portfolio/project-200.png";
 import Image201 from "../../../public/assets/img/portfolio/project-201.png";
 import Image202 from "../../../public/assets/img/portfolio/project-202.png";
@@ -178,56 +179,8 @@ const PortfolioData = [
   },
   {
     id: 100,
-    type: "Javascript",
+    type: "React JS, The Complete Guide",
     image: Image100,
-    tag: ["React JS"],
-    delayAnimation: "0",
-    modalDetails: [
-      {
-        project: "React JS",
-        client: "Linkedin Learning",
-        language: "null",
-        preview: "null",
-        link: "null",
-      },
-    ],
-  },
-  {
-    id: 101,
-    type: "React JS",
-    image: Image101,
-    tag: ["React JS"],
-    delayAnimation: "100",
-    modalDetails: [
-      {
-        project: "React JS",
-        client: "Linkedin Learning",
-        language: "null",
-        preview: "null",
-        link: "null",
-      },
-    ],
-  },
-  {
-    id: 102,
-    type: "React JS Essential",
-    image: Image102,
-    tag: ["React JS"],
-    delayAnimation: "200",
-    modalDetails: [
-      {
-        project: "React JS",
-        client: "Linkedin Learning",
-        language: "null",
-        preview: "null",
-        link: "null",
-      },
-    ],
-  },
-  {
-    id: 103,
-    type: "React MERN",
-    image: Image103,
     tag: ["React JS"],
     delayAnimation: "0",
     modalDetails: [
@@ -241,8 +194,56 @@ const PortfolioData = [
     ],
   },
   {
+    id: 101,
+    type: "React MERN",
+    image: Image101,
+    tag: ["React JS"],
+    delayAnimation: "100",
+    modalDetails: [
+      {
+        project: "React JS",
+        client: "Udemy",
+        language: "null",
+        preview: "null",
+        link: "null",
+      },
+    ],
+  },
+  {
+    id: 102,
+    type: "MERN eCommerce",
+    image: Image102,
+    tag: ["React JS"],
+    delayAnimation: "200",
+    modalDetails: [
+      {
+        project: "React JS",
+        client: "Udemy",
+        language: "null",
+        preview: "null",
+        link: "null",
+      },
+    ],
+  },
+  {
+    id: 103,
+    type: "React JS",
+    image: Image101,
+    tag: ["React JS"],
+    delayAnimation: "0",
+    modalDetails: [
+      {
+        project: "React JS",
+        client: "Linkedin Learning",
+        language: "null",
+        preview: "null",
+        link: "null",
+      },
+    ],
+  },
+  {
     id: 104,
-    type: "Next JS",
+    type: "React JS Essential",
     image: Image104,
     tag: ["React JS"],
     delayAnimation: "100",
@@ -256,12 +257,29 @@ const PortfolioData = [
       },
     ],
   },
+
   {
     id: 105,
-    type: "MERN eCommerce",
+    type: "Next JS",
     image: Image105,
     tag: ["React JS"],
     delayAnimation: "200",
+    modalDetails: [
+      {
+        project: "React JS",
+        client: "Linkedin Learning",
+        language: "null",
+        preview: "null",
+        link: "null",
+      },
+    ],
+  },
+  {
+    id: 106,
+    type: "Javascript",
+    image: Image106,
+    tag: ["React JS"],
+    delayAnimation: "0",
     modalDetails: [
       {
         project: "React JS",
