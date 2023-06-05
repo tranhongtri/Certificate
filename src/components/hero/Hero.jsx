@@ -41,7 +41,7 @@ const Hero = () => {
             </h1>
             <p className="open-sans-font">{heroContent.heroDescriptions}</p>
 
-                <a className="button" href={"https://drive.google.com/uc?export=download&id=1jEZHU2EhhWjHOj_xT-hmTiNafCUHgO6A"} download>
+                <a className="button" href={"https://drive.google.com/uc?export=download&id=14-VcKgPJ0KybzLZPDA2-SmDuJgvNQAOk"} download>
                   <span className="button-text">Download CV</span>
                   <span className="button-icon fa fa-download"></span>
                 </a>

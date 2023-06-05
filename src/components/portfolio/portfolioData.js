@@ -19,6 +19,8 @@ import Image103 from "../../../public/assets/img/portfolio/project-103.png";
 import Image104 from "../../../public/assets/img/portfolio/project-104.png";
 import Image105 from "../../../public/assets/img/portfolio/project-105.png";
 import Image106 from "../../../public/assets/img/portfolio/project-106.png";
+import Image107 from "../../../public/assets/img/portfolio/project-107.png";
+import Image108 from "../../../public/assets/img/portfolio/project-108.png";
 import Image200 from "../../../public/assets/img/portfolio/project-200.png";
 import Image201 from "../../../public/assets/img/portfolio/project-201.png";
 import Image202 from "../../../public/assets/img/portfolio/project-202.png";
@@ -284,6 +286,38 @@ const PortfolioData = [
       {
         project: "React JS",
         client: "Linkedin Learning",
+        language: "null",
+        preview: "null",
+        link: "null",
+      },
+    ],
+  },
+  {
+    id: 107,
+    type: "Next JS",
+    image: Image107,
+    tag: ["React JS"],
+    delayAnimation: "100",
+    modalDetails: [
+      {
+        project: "React JS",
+        client: "Udemy",
+        language: "null",
+        preview: "null",
+        link: "null",
+      },
+    ],
+  },
+  {
+    id: 108,
+    type: "Node JS",
+    image: Image108,
+    tag: ["React JS"],
+    delayAnimation: "200",
+    modalDetails: [
+      {
+        project: "Node JS",
+        client: "Udemy",
         language: "null",
         preview: "null",
         link: "null",

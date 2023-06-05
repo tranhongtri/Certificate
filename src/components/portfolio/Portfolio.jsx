@@ -19,7 +19,7 @@ const Portfolio = () => {
         <Tabs>
           <TabList className="portfolio-tab-list" data-aos="fade-up">
             <Tab>PROJECT MANAGEMENT</Tab>
-            <Tab>REACT</Tab>
+            <Tab>REACT JS</Tab>
             <Tab>DATABASE</Tab>
             <Tab>DESIGN</Tab>
             <Tab>API & SERVER</Tab>
